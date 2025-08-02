@@ -18,6 +18,7 @@
     "dotenv": "^17.2.0",
     "express": "^5.1.0",
     "mongodb": "^6.18.0",
+    "node": "^24.5.0",
     "ws": "^8.18.3"
   },
   "devDependencies": {
